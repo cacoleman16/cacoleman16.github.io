@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Economics, and French Literature & Langauge, Transylvania University, 2016
+* B.A. in Mathematics, Economics, and French Literature & Langauge, Transylvania University, 2016
 * M.S. in Economics , University of Kentucky, 2019
 * Ph.D in Economics, University of Kentucky, 2023 (expected)
 
 Work experience
 ======
 
-* Data Science Intern
-  * Quicken Loans
+* Data Science Intern, Quicken Loans
   * Remote
   * Summer 2020 - Present
   
-* Research Assistant
-  * University of Kentucky
+* Research Assistant, University of Kentucky
   * Lexington, KY
   * Supervisor: Dr. Herrera 
   * Summer 2020
   
-* Teaching Assistant
-  * University of Kentucky
+* Teaching Assistant, University of Kentucky
   * Lexington, KY
   * Fall 2018 - Present
   
@@ -38,8 +35,7 @@ Work experience
   * Andorra la Vella, Andorra 
   * Fall 2017 - Summer 2018
   
- * Teaching Assistant
-  * Lexington Sister City Commission
+ * Teaching Assistant, Lexington Sister City Commission
   * Deauville, France
   * Fall 2016 - Summer 2017
   
