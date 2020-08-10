@@ -67,9 +67,7 @@ Talks
 * Fulbright Spain :Primesa, Andorran Education Systems, Spring 2017
 * La Sorbonne University of Paris 1: Module d’anglais gestion des risques, Spring 2017
 * Transylvania University: Financial Literacy, 2015
- <!--- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> --->
+
   
 Teaching
 ======
