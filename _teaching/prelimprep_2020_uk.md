@@ -4,8 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/prelimprep_2020_uk
 venue: "University of Kentucky, Economics"
-date: Summer 2020 
-location: "Lexington, KY"
+location: " Summer 2020 :Lexington, KY"
 ---
 
 
