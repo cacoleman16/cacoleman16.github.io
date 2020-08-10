@@ -11,36 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Economics, and French Literature & Langauge, Transylvania University, 2016
+* M.S. in Economics , University of Kentucky, 2019
+* Ph.D in Economics, University of Kentucky, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Science Intern
+  * Quicken Loans
+  * Remote
+  * Summer 2020 - Present
   
+* Research Assistant
+  * University of Kentucky
+  * Lexington, KY
+  * Supervisor: Dr. Herrera 
+  * Summer 2020
+  
+* Teaching Assistant
+  * University of Kentucky
+  * Lexington, KY
+  * Fall 2018 - Present
+  
+* Fulbright Grantee
+  * Andorra la Vella, Andorra 
+  * Fall 2017 - Summer 2018
+  
+ * Teaching Assistant
+  * Lexington Sister City Commission
+  * Deauville, France
+  * Fall 2016 - Summer 2017
+  
+  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab
+* Python
+  * Pyspark / SQL 
+  * Object Oriented Programming 
+  * Popular libraires: Pandas, Numpy, Request, Selenuim, Matplotlib, Pytorch... 
+* STATA 
+* R
+* Java 
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* English (native)
+* French (near native)
+* Spanish (Working Fluency)
+* Catalan (intermediate)
+* German (Beginner)
   
 Talks
 ======
@@ -54,6 +76,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
