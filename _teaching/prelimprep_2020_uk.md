@@ -18,5 +18,5 @@ Resources
 
 **Note:**  There is no official answer key, the questions answered in the document may be incomplete or contains errors. If you would like to make a corretion feel free to contact me.
 
-* [Practice Problems](http://academicpages.github.io/files/Macro_Summer_2020-10.pdf)
+* [Practice Problems](http://cacoleman16.github.io/files/Macro_Summer_2020-10.pdf)
 
