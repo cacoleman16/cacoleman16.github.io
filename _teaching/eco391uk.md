@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eco391uk
 venue: "University of Kentucky, Economics"
-location: "Summer 2019 (Instructor Of Record) & Fall 2019 (Recitation): Lexington, KY"
+location: "Summer 2019 (Instructor Of Record) & Fall 2019 (Recitation), Lexington, KY"
 ---
 
 
