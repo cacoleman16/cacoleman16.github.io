@@ -1,5 +1,5 @@
 ---
-title: "Graduate Macroeconmics"
+title: "Graduate Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eco702uk
