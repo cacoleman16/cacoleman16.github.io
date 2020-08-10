@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/eco201uk
 venue: "University of Kentucky, Economics"
+date: 2020
 location: "Fall 2018 (TA), Spring 2019 (TA),  Fall 2020 (TA), Lexington, KY"
 ---
 
