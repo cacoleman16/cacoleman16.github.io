@@ -47,7 +47,7 @@ Skills
 * Python
   * Pyspark / SQL 
   * Object Oriented Programming 
-  * Popular libraires: Pandas, Numpy, Request, Selenuim, Matplotlib, Pytorch... 
+  * Popular libraries: Pandas, Numpy, Request, Selenuim, Matplotlib, Pytorch... 
 * STATA 
 * R
 * Java 
