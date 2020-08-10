@@ -35,7 +35,7 @@ Work experience
   * Andorra la Vella, Andorra 
   * Fall 2017 - Summer 2018
   
- * Teaching Assistant, Lexington Sister City Commission
+* Teaching Assistant, Lexington Sister City Commission
   * Deauville, France
   * Fall 2016 - Summer 2017
   
@@ -63,7 +63,7 @@ Languages
 Talks
 ======
 
-* Georgetown Univesity, Economic Policy Academy : Income and Wealth Inequality, Summer 2020
+* Georgetown University, Economic Policy Academy : Income and Wealth Inequality, Summer 2020
 * Fulbright Spain :Primesa, Andorran Education Systems, Spring 2017
 * La Sorbonne University of Paris 1: Module d’anglais gestion des risques, Spring 2017
 * Transylvania University: Financial Literacy, 2015
