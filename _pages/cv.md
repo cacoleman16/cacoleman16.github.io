@@ -66,9 +66,14 @@ Languages
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+
+* Georgetown Univesity, Economic Policy Academy : Income and Wealth Inequality, Summer 2020
+* Fulbright Spain :Primesa, Andorran Education Systems, Spring 2017
+* La Sorbonne University of Paris 1: Module d’anglais gestion des risques, Spring 2017
+* Transylvania University: Financial Literacy, 2015
+ <!--- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> --->
   
 Teaching
 ======
